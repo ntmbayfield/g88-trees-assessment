@@ -7,7 +7,7 @@
    /\
   D E
 
-  Write a recursive algorithm that returns its values as an array, ordered using a breadth first search strategy.
+  Write an algorithm that returns its values as an array, ordered using a breadth first search strategy.
 */
 module.exports.bfs = function (root) {
   
