@@ -8,3 +8,5 @@ This repository contains exercises for implement and searching through trees.
   - Transform a deeply nested object into a tree of nodes.
 * [Array to Node](./01-array-to-node)
   - Transform a deeply nested array into a tree of nodes.
+* [Depth First Search](./02-depth-first-search)
+  - Implement depth first search in pre-order, in-order, and post-order
